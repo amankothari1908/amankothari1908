@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankothari1908&label=Profile%20views&color=b40e0e&style=flat" alt="amankothari1908" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a **Software Engineer and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amankothari1908](https://github.com/amankothari1908)
 
-- 📫 How to reach me **2019pietcsaman20@poornima.org**
+- 📫 How to reach me **amankothari1908@gmail.com**
 
 - 📄 Know about my experiences [https://amankothari.herokuapp.com](https://amankothari.herokuapp.com)
 
