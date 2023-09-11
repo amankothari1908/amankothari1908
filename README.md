@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankothari1908&label=Profile%20views&color=b40e0e&style=flat" alt="amankothari1908" /> </p>
 
-- 🌱 I’m a **Software Engineer and Web Development**
+- 🌱 I’m a **Software Engineer and Full stack developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amankothari1908](https://github.com/amankothari1908)
 
